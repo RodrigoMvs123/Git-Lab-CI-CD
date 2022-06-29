@@ -2,7 +2,7 @@
 
 https://raw.githubusercontent.com/RodrigoMvs123/Git-Lab-CI-CD/main/README.md
 
-
+https://github.com/RodrigoMvs123/Git-Lab-CI-CD/blame/main/README.md
 
 
 Git Lab CI CD 
